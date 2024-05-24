@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aplicacaoMVC2405/1.0.0": {
+        "runtime": {
+          "aplicacaoMVC2405.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aplicacaoMVC2405/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
